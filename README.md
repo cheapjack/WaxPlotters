@@ -4,7 +4,7 @@
 
 Pen plotter work with @JackiePease and anyone else who's interested
 
-Working on an Eleksdraw using the [grbl](https://github.com/robottini/grbl-servo]
+Working on an Eleksdraw using the [grbl](https://github.com/robottini/grbl-servo)
 
 Both need to have wax attachments based on [this Prusa Mod](https://www.thingiverse.com/thing:1677063) for potentially creating CNC/gcode controlled microfluidics channels and batik patterns.
 
