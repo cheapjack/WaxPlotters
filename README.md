@@ -1,4 +1,12 @@
-For pen plotter work with @cheapjack and anyone else who's interested
-I have an Eleksdraw which is currently at @cheapjack house and have borrowed an A3 laser engraver from @RussCoty which is at @doesliverpool. This needs to have a pen attachment.
-Both need to have wax attachments for potentially creating microfluidics channels and batik patterns.
+# Open Sourcing Pen Plotters for Microfluidics and Textile Making
+
+![Eleksdraw](images/PaperDiagnosticPrinter.jpg)
+
+Pen plotter work with @JackiePease and anyone else who's interested
+
+Working on an Eleksdraw using the [grbl](https://github.com/robottini/grbl-servo]
+
+Both need to have wax attachments based on [this Prusa Mod](https://www.thingiverse.com/thing:1677063) for potentially creating CNC/gcode controlled microfluidics channels and batik patterns.
+
+
 It may be that if more people from @doesliverpool want to be involved then this repository would be better placed under @doesliverpool
