@@ -1,4 +1,16 @@
-# Open Sourcing Pen Plotters for Microfluidics and Textile Making
+
+Adapting Eleksdraw cutter plotter with the BREADBOARD-LAMP heating system for extruding wax and custom biomaterials for prototyping paperfluidic diagnostics and CNC textile making 
+
+## Overview
+
+Wearable Technology Interest Group at DoESLiverpool developed a hybrid open source plotter kit that used existing maker-accessible low cost components, to draw, cut, heat and extrude a range of materials accurately by Computer Numerical Control (CNC). The kit re-uses the approach to low cost Arduino temperature control by Nickel Cadmium wire from the BREADBOARD-LAMP project combined with a 3D printed syringe extruder and stepper motor to extrude wax onto lab grade filter paper for prototyping paper-based diagnostics following research into ‘paper fluidic’ literature [(Pal et al., 2017)](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.201700130), [(Pearce et al., 2016)](http://journals.sagepub.com/doi/10.1177/2211068215624408), [(Siegel et al., 2010)](http://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.200901363) and [(Seok et al., 2017)](http://www.thno.org/v07p2220.htm). 
+
+Wax heated and extruded along paths made using gcode tools in Inkscape and a simple multi platform serial interface form millifluidic channels in the paper substrate & can be used as a form of CNC batik for textile making . Head swaps out with pen holder to annotate paper while a cutting head completes the paper prototype. Interchangeable glass syringe head means it can accommodate biomaterials from the [Materiom cookbook](https://materiom.org).
+
+This kit attempts to interleave all the practices in the research, microfluidics, fluidic temperature control, rapid prototyping, field diagnostics, CNC, Gcode & Grbl tools and methods of 3Dprinting, biomaterials, 2D plotting and cutting and biological technique. 
+
+
+## Notes
 
 ![Eleksdraw](images/PaperDiagnosticPrinter.jpg)
 
@@ -15,11 +27,8 @@ It may be that if more people from @doesliverpool want to be involved then this 
 
 # Basic Use
 
-For pen plotter work with @cheapjack and anyone else who's interested
-I have an Eleksdraw which is currently at @cheapjack house and have borrowed an A3 laser engraver from @RussCoty which is at @doesliverpool. This needs to have a pen attachment.
 
 Both need to have wax attachments for potentially creating microfluidics channels and batik patterns.
-It may be that if more people from @doesliverpool want to be involved then this repository would be better placed under @doesliverpool
 
 I've been working on the A3 laser engraver, it now has an attachment to hold a pen using elastic bands (the thicker elastic bands used in by Royal Mail are the best so far).
 
