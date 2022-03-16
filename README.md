@@ -1,6 +1,7 @@
 
 Adapting Eleksdraw cutter plotter with the BREADBOARD-LAMP heating system for extruding wax and custom biomaterials for prototyping paperfluidic diagnostics and CNC textile making 
 
+![Eleksdraw](images/PaperDiagnosticPrinter.jpg)
 ## Overview
 
 Wearable Technology Interest Group at DoESLiverpool developed a hybrid open source plotter kit that used existing maker-accessible low cost components, to draw, cut, heat and extrude a range of materials accurately by Computer Numerical Control (CNC). The kit re-uses the approach to low cost Arduino temperature control by Nickel Cadmium wire from the BREADBOARD-LAMP project combined with a 3D printed syringe extruder and stepper motor to extrude wax onto lab grade filter paper for prototyping paper-based diagnostics following research into ‘paper fluidic’ literature [(Pal et al., 2017)](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.201700130), [(Pearce et al., 2016)](http://journals.sagepub.com/doi/10.1177/2211068215624408), [(Siegel et al., 2010)](http://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.200901363) and [(Seok et al., 2017)](http://www.thno.org/v07p2220.htm). 
@@ -12,7 +13,6 @@ This kit attempts to interleave all the practices in the research, microfluidics
 
 ## Notes
 
-![Eleksdraw](images/PaperDiagnosticPrinter.jpg)
 
 Pen plotter work with @JackiePease and anyone else who's interested
 
